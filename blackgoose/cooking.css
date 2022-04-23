@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body {
+     background-color: #f7dbab;
+}
+ a {
+  text-decoration: none;
+}
+a:link {
+  color: #ff85e0;
+}
+a:visited {
+  color: #42213a;
+}
+a:focus, a:hover {
+  color: #eb31bc;
+  background-color: #fff;
+}
+a:active {
+  color: #f0f;
+  background-color: #fff;
+}
+   h1 {
+  
+  color: orange;
+  border-bottom: 1px solid orange;
+}
+h2 {
+  color: orange;
+  margin-left: 100px;
+}
+p {
+  font-size: large;
+  font-family: sans-serif;
+  margin-left: 100px;
+}
+img {
+  float: right;
+  margin: 0 12px;
+}
