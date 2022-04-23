@@ -4,7 +4,7 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
-  background: #069FC0 url(png/logo.png) no-repeat center 100px fixed;
+  background: #f7dbab url(png/logo.png) no-repeat center 100px fixed;
 }
 header {
   margin-top: 0;
@@ -15,7 +15,7 @@ header {
       url(png/whitesp.png) left top repeat-y,
       url(png/whitesp.png) right top repeat-y,
       url(png/gooseshadow.png) 90% bottom no-repeat;
-  background-color: rgba(6,190, 191,.5);
+  background-color: rgba(255, 239, 212,.5);
 }
 
 a {
@@ -45,7 +45,7 @@ h2 {
   text-transform: uppercase;
   letter-spacing: .5em;
   text-align: center;
-  color: #F5CD08;
+  color: #ff2930;
 }
 dt {
   font-weight: bold;
